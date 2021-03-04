@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="quizserver:war">
-    <output-path>$PROJECT_DIR$/out/artifacts/quizserver_war</output-path>
-    <root id="archive" name="quizserver_war.war">
-      <element id="artifact" artifact-name="quizserver:war exploded" />
-    </root>
-  </artifact>
-</component>
